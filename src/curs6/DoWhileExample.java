@@ -22,6 +22,10 @@ public class DoWhileExample {
 			j++;
 				
 			}
+		//invalid condition:
+		//while(j<array.length) {
+		//System.out.println(array[j]);
+		//j++;}
 		}
 
 	}
